@@ -88,7 +88,7 @@ var sufaceCercle = function (rayon) {
 }
 var hypothenuse = function (ab, ac) {
   // Les nombres et opérations mathématiques : Calculer l'hypthènuse d'un triangle rectangle
-  var result =  Math.hypot(ab, ac);
+    var result =  Math.hypot(ab, ac);
     return result;
 }
 var calculIMC = function (poids, taille) {
